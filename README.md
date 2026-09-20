@@ -149,7 +149,7 @@ Players will see the game embedded directly in your Whop community.
 - **HTML5 Canvas** — Game rendering
 - **WebRTC** — Browser voice chat
 
--
+---
 
 ## 📜 License
 
